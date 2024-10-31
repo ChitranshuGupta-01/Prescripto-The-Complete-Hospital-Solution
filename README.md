@@ -1,1 +1,1 @@
-# Prescripto-The-Complete-Hospital-Solution
+# Prescripto-The Complete Hospital Solution
